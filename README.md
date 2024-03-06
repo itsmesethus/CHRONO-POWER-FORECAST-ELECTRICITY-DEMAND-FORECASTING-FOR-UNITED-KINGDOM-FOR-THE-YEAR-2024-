@@ -39,20 +39,20 @@ National Grid ESO is the electricity system operator for Great Britain. They hav
 
 ## TABLE OF CONTENTS:
 
-- [Introduction](#introduction)
-- [Data Preprocessing](#data-preprocessing)
-- [Data Visualization](#data-visualization)
+- [Introduction](#Introduction)
+- [Data Preprocessing](#Data-Preprocessing)
+- [Data Visualization](#Data-Visualization)
 
       # Part 1 : STATISTICAL MODELS & FB-Prophet
 
-- [Seasonal Decomposition](#seasonal-decomposition)
-- [Statistical Test for Stationarity](#statistical-test-for-stationarity)
-- [Statistical Models & FB-Prophet](#statistical-models-&-fb-prophet)
+- [Seasonal Decomposition](#Seasonal-Decomposition)
+- [Statistical Test for Stationarity](#Statistical-Test-For-Stationarity)
+- [Statistical Models & FB-Prophet](#Statistical-Models-&-FN-Prophet)
 
       # Part 2 : DEEP LEARNING MODELS Based on Sequences
 
-- [Data Preprocessing for Deep learning Architectures](Data-preprocessing-for-deep-learning-architectures)
-- [Deep Learning Architectures based on Sequences](#deep-learning-architectures-based-on-sequences)
+- [Data Preprocessing for Deep learning Architectures](Data-Preprocessing-For-Deep-Learning-Architectures)
+- [Deep Learning Architectures based on Sequences](#Deep-Learning-Architectures-Based-On-Sequences)
 
 ## Introduction:
 
