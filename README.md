@@ -212,7 +212,7 @@ If all these done, assumptions are satisfied, further I can go for the Statistic
       * Here the order p represents the no of significant correlated lags should be included in the model for forecasting the future.  
       * AR(p=1) equation is given below,
       
-![Screenshot]([screenshot.png](https://github.com/itsmesethus/CHRONO-POWER-FORECAST-ELECTRICITY-DEMAND-FORECASTING-FOR-UNITED-KINGDOM-FOR-THE-YEAR-2024-/blob/main/pics/ar1.png))
+![screenshot.png](https://github.com/itsmesethus/CHRONO-POWER-FORECAST-ELECTRICITY-DEMAND-FORECASTING-FOR-UNITED-KINGDOM-FOR-THE-YEAR-2024-/blob/main/pics/ar1.png)
 
 
 **@ Moving Average Model**
