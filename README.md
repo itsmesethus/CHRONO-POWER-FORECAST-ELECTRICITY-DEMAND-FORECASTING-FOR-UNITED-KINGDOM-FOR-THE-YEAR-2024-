@@ -211,14 +211,8 @@ If all these done, assumptions are satisfied, further I can go for the Statistic
       * It's a linear model, where current period values are a sum of past outcomes multiplies by a numeric factor.
       * Here the order p represents the no of significant correlated lags should be included in the model for forecasting the future.  
       * AR(p=1) equation is given below,
-
-\[ X_t = c + \phi_1 X_{t-1} + \varepsilon_t \]
-
-Where:
-- \( X_t \) represents the value of the time series at time \( t \).
-- \( c \) is a constant term.
-- \( \phi_1 \) is the coefficient of the lagged value \( X_{t-1} \).
-- \( \varepsilon_t \) represents the error term at time \( t \).
+      
+![Screenshot]([screenshot.png](https://github.com/itsmesethus/CHRONO-POWER-FORECAST-ELECTRICITY-DEMAND-FORECASTING-FOR-UNITED-KINGDOM-FOR-THE-YEAR-2024-/blob/main/pics/ar1.png))
 
 
 **@ Moving Average Model**
