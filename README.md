@@ -51,7 +51,7 @@ National Grid ESO is the electricity system operator for Great Britain. They hav
 
       # Part 2 : DEEP LEARNING MODELS Based on Sequences
 
-- [Data Preprocessing for Deep learning Architectures](Data-Preprocessing-For-Deep-Learning-Architectures)
+- [Data Preprocessing For Deep learning Architectures](Data-Preprocessing-For-Deep-Learning-Architectures)
 - [Deep Learning Architectures based on Sequences](#Deep-Learning-Architectures-Based-On-Sequences)
 
 ## Introduction:
