@@ -219,7 +219,7 @@ If all these done, assumptions are satisfied, further I can go for the Statistic
 
       * MA model relates the current value of the series to past error terms. 
       * It captures the shocks or unexpected events in the past that are still affecting the series.
- 
+![screenshot.png]( https://github.com/itsmesethus/CHRONO-POWER-FORECAST-ELECTRICITY-DEMAND-FORECASTING-FOR-UNITED-KINGDOM-FOR-THE-YEAR-2024-/blob/main/pics/ma1.png)
 
 **@ AutoRegressive Moving Average Model (p,q)** 
 
@@ -227,6 +227,7 @@ If all these done, assumptions are satisfied, further I can go for the Statistic
       * Here the impact of previous lags along with the residuals  is considered for forecasting the future values of the TS.
       * It is used to describe weakly stationary stochastic time series.
 
+![screenshot](https://github.com/itsmesethus/CHRONO-POWER-FORECAST-ELECTRICITY-DEMAND-FORECASTING-FOR-UNITED-KINGDOM-FOR-THE-YEAR-2024-/blob/main/pics/arma.png)
 
       * yt and yt-1 -  values in current preriod and 1 period ago.
       * ϵt and ϵt−1 - error terms for the same two periods( where the error term from last period is used to help correct our forecasting)
