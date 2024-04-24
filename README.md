@@ -36,6 +36,64 @@ National Grid ESO is the electricity system operator for Great Britain. They hav
 
 * 1 MW is equivalent to 1,000 kilowatts (kW).
 
+
+## know about weather in uk:
+
+Electricity Demand in the UK Based on Seasons
+Winter Months:
+December:
+The coldest month in the UK.
+Shortest daylight hours, increasing the demand for lighting.
+Increased use of heating systems due to colder temperatures.
+January:
+Cold temperatures continue.
+Short daylight hours.
+High demand for heating and lighting.
+February:
+Still cold, especially in the early part of the month.
+Short daylight hours.
+Heating and lighting demand remains high.
+Shoulder Months:
+November:
+The transition month from autumn to winter.
+Colder temperatures and shorter daylight hours increase the demand for heating and lighting.
+March:
+The transition month from winter to spring.
+Heating demand starts to decrease but can still be high during cold spells.
+Increasing daylight reduces the demand for lighting.
+Factors Influencing Electricity Demand:
+Heating: In the UK, a significant portion of electricity is used for heating, especially in winter months.
+Lighting: Shorter daylight hours in winter increase the demand for lighting.
+Weather Conditions: Cold temperatures and storms can lead to higher demand for electricity for heating, lighting, and other household needs.
+Daylight Hours: Longer daylight hours in summer months can reduce the demand for lighting.
+Air Conditioning: Although not as significant as heating, the demand for electricity can also increase during warmer summer months due to the use of air conditioning and cooling systems.
+Traditional Seasons in the UK:
+Spring:
+Months: March, April, May
+Characteristics:
+Temperatures start to rise.
+Days become longer.
+Trees and flowers begin to bloom.
+Summer:
+Months: June, July, August
+Characteristics:
+Warmest months of the year.
+Long daylight hours.
+Generally drier and sunnier conditions, but rain can still occur.
+Autumn (Fall):
+Months: September, October, November
+Characteristics:
+Temperatures start to cool.
+Days become shorter.
+Trees shed their leaves.
+Winter:
+Months: December, January, February
+Characteristics:
+Coldest months of the year.
+Shortest daylight hours.
+Increased rainfall, and snow is possible, especially in northern regions.
+
+
 ## LIBRARIES USED:
 
    - Pandas, Matplotlib, Seaborn, Scikit-learn, datetime, Statsmodels, Tensorflow, Numpy, Keras, FB-Prophet.
